@@ -1,0 +1,22 @@
+{
+  "name": "ChainLink",
+  "symbol": "LINK",
+  "decimals": "18",
+  "chains": [
+    {
+      "id": 1,
+      "name": "ethereum",
+      "token_address": "0x779877A7B0D9E8603169DdbD7836e478b4624789"
+    },
+    {
+      "id": 1,
+      "name": "base",
+      "token_address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
+      "token_detail_override": {
+        "name": "ChainLinkBase",
+        "symbol": "LINKB",
+        "decimals": 6
+      }
+    }
+  ]
+}
