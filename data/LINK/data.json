@@ -11,7 +11,7 @@
     {
       "id": 1,
       "name": "base",
-      "token_address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
+      "token_address": "hello",
       "deployer_address": "0x779877A7B0D9E8603169DdbD7836e478b4624710",
       "token_detail_override": {
         "name": "ChainLinkBase",
