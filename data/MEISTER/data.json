@@ -3,7 +3,7 @@
   "symbol": "MEISTER",
   "decimals": "6",
   "description": "a test token",
-  "twitter": "twitter.com/Meisterjustice",
+  "twitter": "twitter.com/meisterjustice",
   "chains": [
     {
       "id": 1,
@@ -13,14 +13,14 @@
     {
       "id": 8453,
       "name": "base",
-      "token_address": "0x73d7bfb9e9ae19bd1f5f7e6f4213a310ed5af045",
+      "token_address": "0x4a38ddee5ea9cf33fd7d94347124afb9c14d03a3",
       "deployer_address": "0x6Ad870d1dD2Fac9b21b0110330e55414324C03aa",
       "token_detail_override": {
         "name": "Meister USD",
         "symbol": "MEISTER",
         "decimals": 6
       },
-      "transaction_hash": "0x233261341e86c347b7b1d9269a6c3747ade3f646ae61e403f862e0926b475bad"
+      "transaction_hash": "0x2cbd07cc4952b9527ecbf8428843d9a2bbe99fc68cb9321450f73d67976e0f20"
     }
   ]
 }
