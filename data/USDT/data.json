@@ -1,0 +1,22 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": "6",
+  "description": "a test token",
+  "twitter": "twitter.com/meisterjustice",
+  "chains": [
+    {
+      "id": 1,
+      "name": "ethereum",
+      "token_address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    },
+    {
+      "id": 1,
+      "name": "base",
+      "token_address": "0xf6ee999f3d2e87c8e9298de4ed9c11201b79eae1",
+      "deployer_address": "0x6Ad870d1dD2Fac9b21b0110330e55414324C03aa",
+      "token_detail_override": {},
+      "transaction_hash": "0xb053760a649cca537141864c638395cdd9d664ee3f4bbfaf0bb033d8b273d4ae"
+    }
+  ]
+}
