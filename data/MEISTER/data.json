@@ -1,0 +1,26 @@
+{
+  "name": "Meister USD",
+  "symbol": "MEISTER",
+  "decimals": "6",
+  "description": "a test token",
+  "twitter": "twitter.com/meisterjustice",
+  "chains": [
+    {
+      "id": 1,
+      "name": "ethereum",
+      "token_address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    },
+    {
+      "id": 8453,
+      "name": "base",
+      "token_address": "0x2a23f54f7949d99d41963c9f1e4dc6082b15e596",
+      "deployer_address": "0x6Ad870d1dD2Fac9b21b0110330e55414324C03aa",
+      "token_detail_override": {
+        "name": "Meister USD",
+        "symbol": "MEISTER",
+        "decimals": 6
+      },
+      "transaction_hash": "0x75022845d108cbae054673e3519dedb66a5367ecf052a375f0d388604a324664"
+    }
+  ]
+}
