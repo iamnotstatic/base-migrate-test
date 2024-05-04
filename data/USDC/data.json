@@ -1,0 +1,23 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": "6",
+  "description": "testing",
+  "website": "https://twitter.com/BaseMigrate",
+  "twitter": "https://twitter.com/BaseMigrate",
+  "chains": [
+    {
+      "id": 1,
+      "name": "ethereum",
+      "token_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+    },
+    {
+      "id": 8453,
+      "name": "base",
+      "token_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "deployer_address": "0x459D7FB72ac3dFB0666227B30F25A424A5583E9c",
+      "token_detail_override": {},
+      "transaction_hash": "0x99ce59e85d86c654c3e6567f274cd38713d88e5fed1817d6f9d1741cfb9b487e"
+    }
+  ]
+}
