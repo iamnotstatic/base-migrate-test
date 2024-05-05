@@ -1,0 +1,23 @@
+{
+  "name": "Unlock Discount Token",
+  "symbol": "UDT",
+  "decimals": "18",
+  "description": "test",
+  "website": "https://twitter.com/BaseMigrate",
+  "twitter": "https://twitter.com/BaseMigrate",
+  "chains": [
+    {
+      "id": 1,
+      "name": "ethereum",
+      "token_address": "0x90DE74265a416e1393A450752175AED98fe11517"
+    },
+    {
+      "id": 10,
+      "name": "optimism",
+      "token_address": "0x90de74265a416e1393a450752175aed98fe11517",
+      "deployer_address": "0x4ea8A5d400142e2498931f72f73a3100b3a65183",
+      "token_detail_override": {},
+      "transaction_hash": "0x16b639c99342d3ba31d5a9cdc6dc64428e36212e8ca468d82d10e7825844003e"
+    }
+  ]
+}
