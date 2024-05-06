@@ -1,0 +1,23 @@
+{
+  "name": "Unlock Discount Token",
+  "symbol": "UDT",
+  "decimals": "18",
+  "description": "lol",
+  "website": "https://twitter.com/BaseMigrate",
+  "twitter": "https://twitter.com/BaseMigrate",
+  "chains": [
+    {
+      "id": 1,
+      "name": "ethereum",
+      "token_address": "0x90DE74265a416e1393A450752175AED98fe11517"
+    },
+    {
+      "id": 34443,
+      "name": "mode",
+      "token_address": "0x90de74265a416e1393a450752175aed98fe11517",
+      "deployer_address": "0x4ea8A5d400142e2498931f72f73a3100b3a65183",
+      "token_detail_override": {},
+      "transaction_hash": "0x27b4b6305b1bc715b51df7f9cdfe0aa5207e49d03f8dd98be0d05ca4bb4c0735"
+    }
+  ]
+}
