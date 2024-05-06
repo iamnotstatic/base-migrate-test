@@ -1,0 +1,19 @@
+{
+  "name": "Aavegotchi GHST Token",
+  "symbol": "GHST",
+  "decimals": "18",
+  "chains": [
+    {
+      "id": 1,
+      "name": "ethereum",
+      "token_address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+    },
+    {
+      "id": 1000,
+      "name": "mode",
+      "token_address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+      "deployer_address": "0x779877A7B0D9E8603169DdbD7836e478b4624710",
+      "transaction_hash": "0x57a6328247938094f8854d77806b6036a6b93df5acd8525b5f8382b9a38fc358"
+    }
+  ]
+}
