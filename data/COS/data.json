@@ -11,12 +11,12 @@
       "token_address": "0x589891a198195061Cb8ad1a75357A3b7DbaDD7Bc"
     },
     {
-      "id": 10,
-      "name": "optimism",
-      "token_address": "0x7ddcd155e6b319b7f68b73c448eccdd65ccab8e5",
+      "id": 34443,
+      "name": "mode",
+      "token_address": "0x589891a198195061cb8ad1a75357a3b7dbadd7bc",
       "deployer_address": "0x6Ad870d1dD2Fac9b21b0110330e55414324C03aa",
       "token_detail_override": {},
-      "transaction_hash": "0x498eb6d4d51d43d0f892349b6675542e39188f4f8c31d30c03ac7593b2a8e859"
+      "transaction_hash": "0x91d7c44c3781053cec4b8ffb1ae434eb1e7a92d0fae0a495a72b004637056dfc"
     }
   ]
 }
