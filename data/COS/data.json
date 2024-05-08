@@ -2,7 +2,7 @@
   "name": "Contentos",
   "symbol": "COS",
   "decimals": "18",
-  "description": "testing",
+  "description": "test",
   "twitter": "twitter.com/meisterjustice",
   "chains": [
     {
@@ -11,12 +11,12 @@
       "token_address": "0x589891a198195061Cb8ad1a75357A3b7DbaDD7Bc"
     },
     {
-      "id": 8453,
-      "name": "base",
-      "token_address": "0x27a7ae73ae294dc7f432754fec7c185f8b2e6b32",
+      "id": 10,
+      "name": "optimism",
+      "token_address": "0x7ddcd155e6b319b7f68b73c448eccdd65ccab8e5",
       "deployer_address": "0x6Ad870d1dD2Fac9b21b0110330e55414324C03aa",
       "token_detail_override": {},
-      "transaction_hash": "0x9360bef2ad20bd0d760da24b1bbc140591a2fb2206982c3a6fa18740921fabab"
+      "transaction_hash": "0x498eb6d4d51d43d0f892349b6675542e39188f4f8c31d30c03ac7593b2a8e859"
     }
   ]
 }
