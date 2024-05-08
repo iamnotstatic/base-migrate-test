@@ -2,7 +2,7 @@
   "name": "Unlock Discount Token",
   "symbol": "UDT",
   "decimals": "18",
-  "description": "testing migration again",
+  "description": "testing",
   "twitter": "twitter.com/meisterjustice",
   "chains": [
     {
@@ -16,7 +16,7 @@
       "token_address": "0x90de74265a416e1393a450752175aed98fe11517",
       "deployer_address": "0x6Ad870d1dD2Fac9b21b0110330e55414324C03aa",
       "token_detail_override": {},
-      "transaction_hash": "0xe9c5248594e2fa74bd52f57c17aebec2e24b9a7b35d482ee8726205b56f188b0"
+      "transaction_hash": "0x28ebbf9b13c7112e7cdb8cd6d9c072bc7932cff96b1cbb8f8db89f4dbe663491"
     }
   ]
 }
