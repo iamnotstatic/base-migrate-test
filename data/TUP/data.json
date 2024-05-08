@@ -1,0 +1,22 @@
+{
+  "name": "Tenup",
+  "symbol": "TUP",
+  "decimals": "18",
+  "description": "test",
+  "twitter": "twitter.com/meisterjustice",
+  "chains": [
+    {
+      "id": 1,
+      "name": "ethereum",
+      "token_address": "0x7714f320Adca62B149df2579361AfEC729c5FE6A"
+    },
+    {
+      "id": 34443,
+      "name": "mode",
+      "token_address": "0x0aa6fd412627124c98d66d0c986b67138b8b95e6",
+      "deployer_address": "0x6Ad870d1dD2Fac9b21b0110330e55414324C03aa",
+      "token_detail_override": {},
+      "transaction_hash": "0x9a5a7c4c5bcd91447eba115bc5bb6b800467bda12542bf988b5dbb76af50fd21"
+    }
+  ]
+}
