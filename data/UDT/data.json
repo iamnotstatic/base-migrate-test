@@ -2,9 +2,8 @@
   "name": "Unlock Discount Token",
   "symbol": "UDT",
   "decimals": "18",
-  "description": "testing",
-  "website": "https://twitter.com/BaseMigrate",
-  "twitter": "https://twitter.com/BaseMigrate",
+  "description": "testing migration again",
+  "twitter": "twitter.com/meisterjustice",
   "chains": [
     {
       "id": 1,
@@ -12,12 +11,12 @@
       "token_address": "0x90DE74265a416e1393A450752175AED98fe11517"
     },
     {
-      "id": 34443,
-      "name": "mode",
+      "id": 8453,
+      "name": "base",
       "token_address": "0x90de74265a416e1393a450752175aed98fe11517",
-      "deployer_address": "0x4ea8A5d400142e2498931f72f73a3100b3a65183",
+      "deployer_address": "0x6Ad870d1dD2Fac9b21b0110330e55414324C03aa",
       "token_detail_override": {},
-      "transaction_hash": "0x2ffafb8eade7c401548db62e4c00c4dba19cbcd22e5aafe3837ab1def99da019"
+      "transaction_hash": "0xe9c5248594e2fa74bd52f57c17aebec2e24b9a7b35d482ee8726205b56f188b0"
     }
   ]
 }
