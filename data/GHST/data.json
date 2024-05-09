@@ -1,19 +1,74 @@
 {
-  "name": "Aavegotchi GHST Token",
-  "symbol": "GHST",
-  "decimals": "18",
-  "chains": [
-    {
-      "id": 1,
-      "name": "ethereum",
-      "token_address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+  "superchain": {
+    "superchain": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHST",
+      "decimals": 18,
+      "tokens": {
+        "ethereum": {
+          "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+        },
+        "base": {
+          "address": "0xf0F161fDA2712DB8b566946122a5af183995e300"
+        }
+      }
     },
-    {
-      "id": 1000,
-      "name": "mode",
-      "token_address": "0xf0F161fDA2712DB8b566946122a5af183995e210",
-      "deployer_address": "0x779877A7B0D9E8603169DdbD7836e478b4624710",
-      "transaction_hash": "0x57a6328247938094f8854d77806b6036a6b93df5acd8525b5f8382b9a38fc358"
+    "superbridgeApp": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHST",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715244528/migrations/kywrz6p7kfzpxruzhzap.svg",
+      "opTokenId": "GHST",
+      "addresses": {
+        "1": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+        "3031": "0xf0F161fDA2712DB8b566946122a5af183995e300"
+      }
+    },
+    "name": "Aavegotchi GHST Token",
+    "symbol": "GHST",
+    "decimals": 18,
+    "tokens": {
+      "ethereum": {
+        "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+      },
+      "base": {
+        "address": "0xf0F161fDA2712DB8b566946122a5af183995e300"
+      }
     }
-  ]
+  },
+  "superbridgeApp": {
+    "superchain": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHST",
+      "decimals": 18,
+      "tokens": {
+        "ethereum": {
+          "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+        },
+        "base": {
+          "address": "0xf0F161fDA2712DB8b566946122a5af183995e300"
+        }
+      }
+    },
+    "superbridgeApp": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHST",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715244528/migrations/kywrz6p7kfzpxruzhzap.svg",
+      "opTokenId": "GHST",
+      "addresses": {
+        "1": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+        "3031": "0xf0F161fDA2712DB8b566946122a5af183995e300"
+      }
+    },
+    "name": "Aavegotchi GHST Token",
+    "symbol": "GHST",
+    "decimals": 18,
+    "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715246001/migrations/p7llsyk4utqmhocisw3v.svg",
+    "opTokenId": "GHST",
+    "addresses": {
+      "1": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+      "3031": "0xf0F161fDA2712DB8b566946122a5af183995e300"
+    }
+  }
 }
