@@ -9,6 +9,9 @@
       },
       "mode": {
         "address": "0xf0F161fDA2712DB8b566946122a5af183995e210"
+      },
+      "base": {
+        "address": "0xf0F161fDA2712DB8b566946122a5af183995e000"
       }
     }
   },
@@ -20,7 +23,8 @@
     "opTokenId": "GHSTM",
     "addresses": {
       "1": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
-      "1000": "0xf0F161fDA2712DB8b566946122a5af183995e210"
+      "1000": "0xf0F161fDA2712DB8b566946122a5af183995e210",
+      "3001": "0xf0F161fDA2712DB8b566946122a5af183995e000"
     }
   }
 }
