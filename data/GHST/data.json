@@ -1,5 +1,29 @@
 {
   "superchain": {
+    "superchain": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHST",
+      "decimals": 18,
+      "tokens": {
+        "ethereum": {
+          "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+        },
+        "base": {
+          "address": "0xf0F161fDA2712DB8b566946122a5af183995e300"
+        }
+      }
+    },
+    "superbridgeApp": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHST",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715244528/migrations/kywrz6p7kfzpxruzhzap.svg",
+      "opTokenId": "GHST",
+      "addresses": {
+        "1": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+        "3031": "0xf0F161fDA2712DB8b566946122a5af183995e300"
+      }
+    },
     "name": "Aavegotchi GHST Token",
     "symbol": "GHST",
     "decimals": 18,
@@ -12,11 +36,35 @@
       }
     }
   },
-  "superbridgeApp": {
+  "superbridge": {
+    "superchain": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHST",
+      "decimals": 18,
+      "tokens": {
+        "ethereum": {
+          "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+        },
+        "base": {
+          "address": "0xf0F161fDA2712DB8b566946122a5af183995e300"
+        }
+      }
+    },
+    "superbridgeApp": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHST",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715244528/migrations/kywrz6p7kfzpxruzhzap.svg",
+      "opTokenId": "GHST",
+      "addresses": {
+        "1": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+        "3031": "0xf0F161fDA2712DB8b566946122a5af183995e300"
+      }
+    },
     "name": "Aavegotchi GHST Token",
     "symbol": "GHST",
     "decimals": 18,
-    "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715244528/migrations/kywrz6p7kfzpxruzhzap.svg",
+    "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715246205/migrations/hqyhjhfbbx8ka6lhnghz.svg",
     "opTokenId": "GHST",
     "addresses": {
       "1": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
