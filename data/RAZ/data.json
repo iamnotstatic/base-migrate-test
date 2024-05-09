@@ -1,0 +1,35 @@
+{
+  "superchain": {
+    "name": "Razzee",
+    "symbol": "RAZ",
+    "decimals": 18,
+    "description": "testing my first token",
+    "twitter": "twitter.com/ifunanyachukwux",
+    "tokens": {
+      "ethereum": {
+        "address": "0x7714f320Adca62B149df2579361AfEC729c5FE6A"
+      },
+      "base": {
+        "address": "0xe80c9db3025c2c921b18ed12bd7de53c60faaee3",
+        "overrides": {
+          "name": "Razzee",
+          "symbol": "RAZ",
+          "decimals": 18
+        }
+      }
+    }
+  },
+  "superbridge": {
+    "name": "Razzee",
+    "symbol": "RAZ",
+    "decimals": 18,
+    "description": "testing my first token",
+    "twitter": "twitter.com/ifunanyachukwux",
+    "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715274857/migrations/nd3z2nlirzww5phaoemx.svg",
+    "opTokenId": "RAZ",
+    "addresses": {
+      "1": "0x7714f320Adca62B149df2579361AfEC729c5FE6A",
+      "8453": "0xe80c9db3025c2c921b18ed12bd7de53c60faaee3"
+    }
+  }
+}
