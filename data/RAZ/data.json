@@ -3,14 +3,14 @@
     "name": "Razzee",
     "symbol": "RAZ",
     "decimals": 18,
-    "description": "testing my first token",
-    "twitter": "twitter.com/ifunanyachukwux",
+    "description": "test",
+    "twitter": "twitter.com/ifunanyascriptx",
     "tokens": {
       "ethereum": {
-        "address": "0x7714f320Adca62B149df2579361AfEC729c5FE6A"
+        "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f"
       },
       "base": {
-        "address": "0xe80c9db3025c2c921b18ed12bd7de53c60faaee3",
+        "address": "0xb8f45b411c01cf8884eb7ee2752db0b7e1f11924",
         "overrides": {
           "name": "Razzee",
           "symbol": "RAZ",
@@ -23,13 +23,13 @@
     "name": "Razzee",
     "symbol": "RAZ",
     "decimals": 18,
-    "description": "testing my first token",
-    "twitter": "twitter.com/ifunanyachukwux",
-    "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715274857/migrations/nd3z2nlirzww5phaoemx.svg",
+    "description": "test",
+    "twitter": "twitter.com/ifunanyascriptx",
+    "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715275044/migrations/hvj1zc62zad02eml4euf.svg",
     "opTokenId": "RAZ",
     "addresses": {
-      "1": "0x7714f320Adca62B149df2579361AfEC729c5FE6A",
-      "8453": "0xe80c9db3025c2c921b18ed12bd7de53c60faaee3"
+      "1": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
+      "8453": "0xb8f45b411c01cf8884eb7ee2752db0b7e1f11924"
     }
   }
 }
