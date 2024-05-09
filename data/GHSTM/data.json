@@ -10,6 +10,30 @@
       "mode": {
         "address": "0xf0F161fDA2712DB8b566946122a5af183995e210"
       }
+    },
+    "superchain": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHSTM",
+      "decimals": 18,
+      "tokens": {
+        "ethereum": {
+          "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+        },
+        "mode": {
+          "address": "0xf0F161fDA2712DB8b566946122a5af183995e210"
+        }
+      }
+    },
+    "superbridge": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHSTM",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715252199/migrations/kvt1dkef2x9dgu7e7os9.svg",
+      "opTokenId": "GHSTM",
+      "addresses": {
+        "1": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+        "1000": "0xf0F161fDA2712DB8b566946122a5af183995e210"
+      }
     }
   },
   "superbridge": {
@@ -21,6 +45,30 @@
     "addresses": {
       "1": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
       "1000": "0xf0F161fDA2712DB8b566946122a5af183995e210"
+    },
+    "superchain": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHSTM",
+      "decimals": 18,
+      "tokens": {
+        "ethereum": {
+          "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+        },
+        "mode": {
+          "address": "0xf0F161fDA2712DB8b566946122a5af183995e210"
+        }
+      }
+    },
+    "superbridge": {
+      "name": "Aavegotchi GHST Token",
+      "symbol": "GHSTM",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715252199/migrations/kvt1dkef2x9dgu7e7os9.svg",
+      "opTokenId": "GHSTM",
+      "addresses": {
+        "1": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+        "1000": "0xf0F161fDA2712DB8b566946122a5af183995e210"
+      }
     }
   }
 }
