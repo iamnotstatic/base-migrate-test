@@ -1,0 +1,32 @@
+{
+  "superchain": {
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "description": "Token 0000",
+    "website": "",
+    "twitter": "",
+    "tokens": {
+      "ethereum": {
+        "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238"
+      },
+      "base-sepolia": {
+        "address": "0xd5e902b02c8db3243e888ffb0448277c49190679"
+      }
+    }
+  },
+  "superbridge": {
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "description": "Token 0000",
+    "website": "",
+    "twitter": "",
+    "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715619366/migrations/mzv8hkzta9oeffexekr7.svg",
+    "opTokenId": "USDC",
+    "addresses": {
+      "1": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+      "84532": "0xd5e902b02c8db3243e888ffb0448277c49190679"
+    }
+  }
+}
