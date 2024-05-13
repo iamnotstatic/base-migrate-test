@@ -26,6 +26,7 @@
     "addresses": {
       "1": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
       "84532": "0xd5e902b02c8db3243e888ffb0448277c49190679"
-    }
+    },
+    "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715619258/migrations/zkpdwn0d4nvhrrdt4mco.svg"
   }
 }
